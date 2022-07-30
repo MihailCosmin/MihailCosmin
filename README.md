@@ -19,7 +19,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihailcosmin&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=5" alt="mihailcosmin" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihailcosmin&show_icons=true&locale=en&theme=dark&langs_count=10" alt="mihailcosmin" />
 </p>
 <br>
 <br>
