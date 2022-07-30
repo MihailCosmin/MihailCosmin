@@ -26,6 +26,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mihailcosmin&show_icons=true&locale=en&theme=dark" alt="mihailcosmin" />
 </p>
@@ -33,23 +35,13 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mihailcosmin&&theme=dark" alt="mihailcosmin" />
  </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
