@@ -18,16 +18,16 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihailcosmin&show_icons=true&locale=en&layout=compact" alt="mihailcosmin" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihailcosmin&show_icons=true&locale=en&layout=compact&theme=radical" alt="mihailcosmin" />
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mihailcosmin&show_icons=true&locale=en" alt="mihailcosmin" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mihailcosmin&show_icons=true&locale=en&theme=radical" alt="mihailcosmin" />
 </p>
 
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mihailcosmin&" alt="mihailcosmin" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mihailcosmin&&theme=radical" alt="mihailcosmin" />
  </p>
 
 <br>
