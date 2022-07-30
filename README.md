@@ -26,6 +26,7 @@
 <br>
 <br>
 <br>
+<br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mihailcosmin&show_icons=true&locale=en&theme=dark" alt="mihailcosmin" />
 </p>
