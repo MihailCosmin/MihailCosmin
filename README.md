@@ -36,6 +36,8 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mihailcosmin&show_icons=true&locale=en&theme=dark" alt="mihailcosmin" />
+  <img align="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/mihailcosmin" />
+  
 </p>
 <br>
 <br>
